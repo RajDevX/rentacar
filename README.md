@@ -114,8 +114,8 @@ This is a project for a car rental website. It is a project for the College Mini
 - The project repot has flow chart, ERD, and UML diagram.
 - 
 ## Demo
-
-- [Live Deployment](https://carsminiproject.000webhostapp.com/)
+under maintenance soon
+- [Live Deployment]
 
 ## Show your support
 
