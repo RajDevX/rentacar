@@ -114,8 +114,7 @@ This is a project for a car rental website. It is a project for the College Mini
 - The project repot has flow chart, ERD, and UML diagram.
 - 
 ## Demo
-under maintenance soon
-- [Live Deployment]
+- [https://carrental005.wuaze.com/car_rental_project-main/?i=2]
 
 ## Show your support
 
